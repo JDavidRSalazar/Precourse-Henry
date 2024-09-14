@@ -1,2 +1,1 @@
-# Precourse-Henry
-Repositorio de prueba del modulo 2 Henry
+ES proyecto es una prueba de como crear un repositorio en github y como clonarlo de manera local.
