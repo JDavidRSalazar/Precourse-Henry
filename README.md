@@ -1,2 +1,3 @@
 Este proyecto es una prueba de como crear un repositorio en github README.md y como clonarlo a mi escritorio local.
 Este curso de Desarrollo Full Stack me esta gustando mucho, es la primera vez que codeo y siento que lo entiendo muy bien.
+aun no comprendo porque al descargar el repositorio README.md se crea nuevamente el repositorio Precourse-Henry, por lo cual queda duplicado ambos archivos en el directorio local.
