@@ -1,1 +1,2 @@
 Este proyecto es una prueba de como crear un repositorio en github README.md y como clonarlo a mi escritorio local.
+Este curso de Desarrollo Full Stack me esta gustando mucho, es la primera vez que codeo y siento que lo entiendo muy bien.
